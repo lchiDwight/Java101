@@ -1,8 +1,8 @@
 public class NewTask {
 
-//     you need to delare a variable
+//     you need to declare a variable
 
-//    you need to delare a String variable
+//    you need to declare a String variable
 
 //    You need to make a math calculation
 
